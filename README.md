@@ -1,6 +1,6 @@
 # simple robo-friends project
 
-##React, 
-##JavaScript,
-##CSS, 
-##HTML 
+**React** 
+**JavaScript**
+**CSS** 
+**HTML **
