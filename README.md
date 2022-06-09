@@ -1,4 +1,4 @@
-# simple robo-friends project
+# simple robo-friends React project
 This project created with 
 
 - React 
